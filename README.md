@@ -1,5 +1,4 @@
 # DumbWays-B16-4
-# Fullstack-Mobile-Developer-Batch-16
 
 # Bismillah
 This is Repository for DumbWays Bootcamp Batch 16 
